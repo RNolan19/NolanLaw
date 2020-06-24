@@ -5995,6 +5995,8 @@ ul.comments .comment-block,
 	.navbar {
 		border-radius: 0;
 	}
+
+
 }
 
 @media (max-width: 575px) {
@@ -6004,6 +6006,11 @@ ul.comments .comment-block,
 	.tabs.tabs-bottom .nav.nav-tabs.nav-justified li:last-child a:hover {
 		border-radius: 0;
 	}
+
+  .feature-box-info {
+    margin-left: 0;
+    text-align: center;
+  }
 
   .practice-areas {
     margin: 0 auto;
