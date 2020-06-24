@@ -5984,6 +5984,9 @@ ul.comments .comment-block,
 	html.boxed #header.flat-menu .header-top {
 		border-radius: 0;
 	}
+  .request {
+    justify-content: flex-end;
+  }
 }
 
 @media (min-width: 768px) {
@@ -6001,4 +6004,12 @@ ul.comments .comment-block,
 	.tabs.tabs-bottom .nav.nav-tabs.nav-justified li:last-child a:hover {
 		border-radius: 0;
 	}
+
+  .practice-areas {
+    margin: 0 auto;
+  }
+
+  .footer {
+    text-align: center;
+  }
 }
